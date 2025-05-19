@@ -2,6 +2,10 @@
 
 This is a personal portfolio website project. It showcases skills, projects, certifications, and contact information using a modern, responsive design.
 
+![image](https://github.com/user-attachments/assets/e9dab004-aecf-42f0-8f0d-1eb72a98f2c0)
+
+![image](https://github.com/user-attachments/assets/cc6b9253-8fb7-45d1-8ed8-b57318dbbd31)
+
 ## Features
 - Responsive layout for desktop and mobile
 - Animated GIFs and icons for technologies
